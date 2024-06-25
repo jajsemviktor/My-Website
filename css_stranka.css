@@ -1,0 +1,196 @@
+.pozadi {
+    background-color: bisque;
+}
+
+.velkynadpis{
+    color: saddlebrown;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    font-family:'Kalam,Tillana';
+    line-height: 1;
+    font-size: 120px;
+}
+
+.malynadpis {
+    color:saddlebrown;
+    font-style:italic;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Kalam, Tillana';
+    line-height: 0.3;
+    font-size: 40px;
+}
+
+
+.ramecky{
+    transform: rotate(16deg);
+    width: 645px;
+    height: 770px;
+    margin-left: 100px;
+    float: left;
+    clear: left;
+
+}
+
+.popis-vpravo{
+    color: darkred;
+    font-style: normal;
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 2;
+    font-size: 25px;
+    margin-right: 400px;
+    float: right;
+    margin-top: 25px;
+}
+
+.nadpis-vpravo{
+    color: darkred;
+    font-style:italic;
+    text-align: right;
+    font-family: "Kalam, Tillana";
+    line-height: 0.1;
+    font-size: 115px;
+    margin-right: 400px;
+    float: right;
+    margin-top: 330px;
+
+}
+
+.alfons{
+    transform: rotate(17deg);
+    width:500px;
+    height: 500px;
+    float:left;
+    position: absolute; 
+    top: 353; 
+    left: 200; 
+    z-index: 1; 
+}
+
+
+.ramecky-vpravo{
+    transform: rotate(-16deg);
+    width: 645px;
+    height: 770px;
+    margin-right: 100px;
+    float: right;
+
+}
+
+.nadpis-vlevo{
+    color: darkred;
+    font-style:italic;
+    text-align: left;
+    font-family: "Kalam, Tillana";
+    line-height: 0.1;
+    font-size: 115px;
+    margin-left: 200px;
+    float: left;
+    margin-top: 300px;
+
+}
+
+
+.popis-vlevo{
+    color: darkred;
+    font-style: normal;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 2;
+    font-size: 25px;
+    margin-left: 400px;
+    float: left;
+    margin-top: 25px;
+}
+
+.brno{
+    transform: rotate(-16deg);
+    width:500px;
+    height: 500px;
+    float:right;
+    position: absolute; 
+    top: 1062; 
+    right: 197; 
+    z-index: 1; 
+}
+
+
+.lyze{
+    transform: rotate(16deg);
+    width: 500px;
+    height: 500px;
+    float: left;
+    position: absolute;
+    top: 1900;
+    left: 197;
+    z-index: 1;
+}
+
+.nadpis-dole{
+    color: darkred;
+    font-style: italic;
+    text-align: center;
+    font-family: "Kalam, Tillana";
+    line-height: 0.1;
+    font-size: 115px;
+    margin-top: 2550px;
+
+
+
+}
+
+.pozadi-filmy {
+    background-color: rgb(44, 44, 44);
+}
+
+.plakat{
+    width: 645px;
+    height: 770px;
+    margin-left: 100px;
+    margin-top: 150px;
+    float: left;
+    clear: left;
+
+}
+
+.filmy-nadpis-vpravo{
+    color: white;
+    font-style:normal;
+    text-align: right;
+    font-family: "Kalam, Tillana";
+    line-height: 0.1;
+    font-size: 115px;
+    margin-right: 400px;
+    float: right;
+    margin-top: 500px;
+
+}
+
+
+.plakat-vpravo{
+    width: 645px;
+    height: 770px;
+    margin-right: 100px;
+    margin-top: 600px;
+    float: right;
+    clear: right;
+}
+
+.filmy-nadpis-vlevo{
+    color: white;
+    font-style:normal;
+    text-align: left;
+    font-family: "Kalam, Tillana";
+    line-height: 0.1;
+    font-size: 115px;
+    margin-left: 200px;
+    float: left;
+    margin-top: 650px;
+ 
+}
+
+.pozadi-hry{
+    background-color:green
+}
